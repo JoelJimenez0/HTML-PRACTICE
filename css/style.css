@@ -93,4 +93,9 @@ ol li{
 .bbox7{
     background: firebrick;
 }
+.container{
+    background-color: aqua;
+    width: 600px;
+    margin: 0 auto;
+}
 
