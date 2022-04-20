@@ -64,6 +64,12 @@ ul{
     padding: 50px;
     list-style-position: inside;
 }
+img{
+    float:left
+}
+p{
+    clear:both;
+}
 ul li{
     margin-bottom: 15px;
 }
