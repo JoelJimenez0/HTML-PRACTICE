@@ -12,6 +12,11 @@ font-size: 21px;
     background-size: contain;
     background-position: center;
 }
+.ejemplo1{
+line-height: 10px;
+background-color: green;
+color: red;
+}
 h1{
 color: orange;
 }
