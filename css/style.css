@@ -3,7 +3,15 @@ body {
 color: black;
 font-size: 21px;
 }
-
+a {
+    color:darkgoldenrod;
+}
+a :hover{
+    color: yellow;
+}
+a:visited{
+color: aliceblue;
+}
 /*this is a css comment*/
 .box1{
     padding: 50px;
