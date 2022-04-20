@@ -21,7 +21,6 @@ color: aliceblue;
     background-position: center;
 }
 .ejemplo1{
-line-height: 10px;
 background-color: green;
 color: red;
 }
@@ -46,4 +45,12 @@ span{
     color: yellow;
     font-size: 40px;
 
+}
+.firstdiv{
+    background-color: rgb(5, 108, 199);
+    
+}
+.firstdiv p{
+    color: white;
+    padding: 50px;
 }
