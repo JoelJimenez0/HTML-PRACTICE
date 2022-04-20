@@ -6,19 +6,18 @@ font-size: 21px;
 
 /*this is a css comment*/
 .box1{
-    background: pink;
-    width: 300px;
+    padding: 50px;
     margin: 50px;
-    border-width: 5px;
-    border-color: black;
-    border-style: solid;
+    background-image:url(../images/snk.jpg);
+    background-size: contain;
+    background-position: center;
 }
 h1{
 color: orange;
 }
 .Top-box{
     color: red;
-    background: rgb(88, 51, 126);
+    ;
 
 }
 .green-spams{
