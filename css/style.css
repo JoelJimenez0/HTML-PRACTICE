@@ -14,13 +14,6 @@ a:visited{
 color: aliceblue;
 }
 /*this is a css comment*/
-.box1{
-    padding: 50px;
-    margin: 50px;
-    background-image:url(../images/snk.jpg);
-    background-size: contain;
-    background-position: center;
-}
 .ejemplo1{
 background-color: green;
 color: red;
@@ -79,3 +72,25 @@ ol li{
     color: white;
 
 }
+.bbox1{
+    background:aqua;
+}
+.bbox2{
+    background: blue;
+}
+.bbox3{
+    background: red;
+}
+.bbox4{
+    background: green;
+}
+.bbox5{
+    background: purple;
+}
+.bbox6{
+    background: orange;
+}
+.bbox7{
+    background: firebrick;
+}
+
