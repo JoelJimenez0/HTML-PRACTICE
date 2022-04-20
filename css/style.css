@@ -2,6 +2,7 @@ body {
     background-color: white;
 color: black;
 font-size: 21px;
+text-align: center;
 }
 a {
     color:darkgoldenrod;
@@ -53,4 +54,22 @@ span{
 .firstdiv p{
     color: white;
     padding: 50px;
+}
+ol{
+    list-style-type: upper-alpha;
+    background-color: black;
+}
+ul{
+    list-style: circle;
+    padding: 50px;
+    list-style-position: inside;
+}
+ul li{
+    margin-bottom: 15px;
+}
+ol li{
+    background-color: blue;
+    margin-bottom: 15px;
+    color: white;
+
 }
